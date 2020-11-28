@@ -1,0 +1,1 @@
+# DuckyScript_DisableWindows10
